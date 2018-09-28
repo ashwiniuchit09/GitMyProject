@@ -1,8 +1,7 @@
 Welcome to DevOps...Git !!!
 
-change1 
+Change --> 1 
 
+Change --> 2
 
-change2
-
-change3
+Change --> 3
